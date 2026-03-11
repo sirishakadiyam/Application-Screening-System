@@ -1,0 +1,6 @@
+Django
+sentence-transformers
+scikit-learn
+numpy
+pdfplumber
+python-docx
